@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_controller"
+    app:startDestination="@id/monitoringFragment">
+
+    <fragment
+        android:id="@+id/monitoringFragment"
+        android:name="com.example.maggotpkm.ui.fragment.MonitoringFragment"
+        android:label="fragment_monitoring"
+        tools:layout="@layout/fragment_monitoring" />
+    <fragment
+        android:id="@+id/controlFragment"
+        android:name="com.example.maggotpkm.ui.fragment.ControlFragment"
+        android:label="fragment_control"
+        tools:layout="@layout/fragment_control" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.maggotpkm.ui.fragment.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
+</navigation>

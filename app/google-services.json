@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378411223595",
+    "firebase_url": "https://maggot-kit-pengabdian-default-rtdb.firebaseio.com",
+    "project_id": "maggot-kit-pengabdian",
+    "storage_bucket": "maggot-kit-pengabdian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378411223595:android:a5823f5587fecd5f85786e",
+        "android_client_info": {
+          "package_name": "com.example.maggotpkm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378411223595-sktguuk3trrfliubc765cenvigi5jv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tljXqzHB_GL-tJ09l9aOerdnIsx6_Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378411223595-sktguuk3trrfliubc765cenvigi5jv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
